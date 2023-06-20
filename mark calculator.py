@@ -121,9 +121,7 @@ pickle.dump(data, file)
 file.close()
 
 
-#p.221 flowchart
 
-# (''') will help to improve command line or "\n" can help as well
 
 
 
